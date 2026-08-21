@@ -1,7 +1,6 @@
-> **ABSORBED**  
-> This theorem now lives in the final SEEM form:  
-> **https://github.com/beyond-repair/sovereign-clean-room/blob/main/docs/BLOCK_SYSTEM.md**  
-> This repo is kept as a historical pointer only.
+> **⚠️ SUPERSEDED / ABSORBED:** This repository is historical archive only. The Block-System theorem now lives in **[sovereign-clean-room](https://github.com/beyond-repair/sovereign-clean-room)** at [`docs/BLOCK_SYSTEM.md`](https://github.com/beyond-repair/sovereign-clean-room/blob/main/docs/BLOCK_SYSTEM.md).
+>
+> All active development has consolidated into the canonical Clean-Room core.
 
 ---
 
